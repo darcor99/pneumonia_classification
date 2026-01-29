@@ -1,0 +1,23 @@
+# Dataset directories
+train/
+test/
+
+# Model checkpoint
+pneumonia_model.pth
+
+# Virtual environment
+venv/
+
+# Project instructions
+CLAUDE.md
+
+# Colab export artifacts
+pneumonia_colab.ipynb - Colab_files/
+pneumonia_colab.ipynb - Colab.html
+
+# Dataset archive
+*.zip
+
+# Python
+__pycache__/
+*.pyc
